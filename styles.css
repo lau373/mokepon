@@ -94,7 +94,7 @@ input {
 }
 
 .boton-ataque {
-    background-color: chartreuse;
+    background-color: rgb(123, 233, 209);
     padding: 10px;
     box-sizing: border-box;
     border-radius: 20px;
@@ -118,7 +118,7 @@ input {
     box-sizing: border-box;
     width: 130px;
     height: 40px;
-    background-color: chartreuse;
+    background-color: rgb(160, 12, 116);
     border: 2px solid black;
     border-radius: 20px;
     padding: 10px;
