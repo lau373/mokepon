@@ -55,6 +55,12 @@ body {
     align-items: center;
     color: #03045e;
     flex-direction: column;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.tarjeta-de-mokepon:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px 5px rgba(80, 82, 206, 0.7);
 }
 
 .tarjeta-de-mokepon img {
